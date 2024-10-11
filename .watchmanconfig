@@ -1,12 +1,1 @@
-{
-    "root": ".",
-    "ignore": [
-        "node_modules",
-        ".git",
-        ".hg",
-        ".svn"
-    ],
-    "watch_dirs": [
-        "."
-    ]
-}
+{}
