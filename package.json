@@ -10,8 +10,7 @@
     "web": "expo start --web",
     "test": "jest --watchAll",
     "lint": "expo lint",
-    "build": "gradlew build",
-    "reset-project": "node reset-project.js"
+    "build": "gradlew build"
 
   },
   "jest": {
