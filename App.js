@@ -1,6 +1,7 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 import * as Reanimated from 'react-native-reanimated';
+import { StyleSheet } from 'react-native';
 
 // Initialize Reanimated
 Reanimated.initialize();
@@ -13,3 +14,5 @@ export default function App() {
         </View>
     );
 }
+
+const styles = StyleSheet.create({});

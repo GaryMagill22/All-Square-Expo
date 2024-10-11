@@ -1,16 +1,17 @@
 {
   "expo": {
-    "name": "All-Square-Expo",
-    "slug": "All-Square-Expo",
+    "name": "All-Square",
+    "slug": "All-Square",
+    "scheme": "All-Square",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "userInterfaceStyle": "automatic",
-    // "splash": {
-    //   "image": "./assets/images/splash.png",
-    //   "resizeMode": "contain",
-    //   "backgroundColor": "#ffffff"
-    // },
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "ios": {
       "supportsTablet": true
     },
